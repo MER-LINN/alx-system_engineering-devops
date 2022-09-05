@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ap | grep -v /etc/passwd 
+head -n 5 /etc/passwd 
